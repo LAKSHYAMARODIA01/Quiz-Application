@@ -23,7 +23,7 @@ What is the capital of France?,Berlin,Madrid,Paris,Rome,C
 
 ## Instructions for Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/quiz-application.git
+   git clone https://github.com/LAKSHYAMARODIA01/Quiz-Application.git
 2. Navigate to the project directory:
    cd quiz-application
 3. Create the `questions.txt` file as described above.
