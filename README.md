@@ -1,4 +1,4 @@
-# Author: Lakshya Marodia (27_Dec_24)
+# Author: Lakshya Marodia (26_Dec_24)
 # Quiz Application
 
 ## Project Description
