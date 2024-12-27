@@ -29,4 +29,6 @@ What is the capital of France?,Berlin,Madrid,Paris,Rome,C
    cd quiz-application
 3. Create the `questions.txt` file as described above.
 4. Run the application.
+## 📫 Contact
+For any inquiries or feedback, please contact me at www.linkedin.com/in/lakshya-marodia .
 
